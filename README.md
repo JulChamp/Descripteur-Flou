@@ -2,12 +2,13 @@
 Projet modélisation M2 VMI - Descripteur de position relative basé sur les sous-ensembles flous
 
 Pour exécuter le programme, il est nécessaire de passer dans un environnement virtuel.
+
 Sur Linux dans le dossier source:
 
-pip3 install virtualenv
-python -m venv env
-source ./env/bin/activate
-pip install -r requirements.txt
+pip3 install virtualenv\n
+python -m venv env\n
+source ./env/bin/activate\n
+pip install -r requirements.txt\n
 
 Sur Windows dans le dossier source :
 pip install virtualenv

@@ -9,7 +9,7 @@ def create_image():
     cv2.circle(img,(250,250), 20, 255,thickness=cv2.FILLED)
     return img
 
-path = "test_entoure.PNG"
+path = "images/test_entoure.PNG"
 img = cv2.imread(path,cv2.IMREAD_GRAYSCALE)
 
 
